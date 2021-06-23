@@ -1,0 +1,59 @@
+* {
+  font-family: 'IBM Plex Mono';
+  color: #808080;
+  -webkit-font-smoothing: antialiased;
+}
+
+div * {
+  font-family: 'Open Sans';
+  color: #303236cb;
+  -webkit-font-smoothing: antialiased;
+}
+
+html {
+  background-color: #191724;
+  fill: #999999;
+}
+
+body {
+  font-family: 'Open Sans';
+  color: #808080;
+  -webkit-font-smoothing: antialiased;
+}
+
+h1,
+p {
+  font-family: IBM Plex Mono;
+  text-align: center;
+  color: #040404;
+  margin-top: 20px;
+}
+
+h2,
+p {
+  font-family: Lato;
+  text-align: center;
+}
+
+.active {
+  font-weight: bold;
+}
+
+a {
+  margin-left: 0.3em;
+  color: black;
+}
+
+a + a {
+  margin-left: 0.25em;
+  color: #808080;
+}
+
+a + a + a {
+  color: black;
+}
+
+MainContainer,
+Row {
+  
+}
